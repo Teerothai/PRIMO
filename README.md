@@ -1,3 +1,9 @@
 # PRIMO
 
-To setup dependency type npm i or npm install in the terminal, after that type npm test to execute the unit test
+npm install for installing all dependencies that have been used in this project.
+
+Available Scripts
+In the project directory, you can run:
+
+npm test
+to test the test cases
